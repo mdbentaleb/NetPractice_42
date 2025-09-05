@@ -82,9 +82,9 @@
 │				to manage and troubleshoot, but if the central hub fails, the entire network
 │				goes down.
 │
-│			3. Ring Topology: In a ring topology, devices are connected in a circular
-│				fashion, with each device connected to two other devices. Data is transmitted
-│				in one direction around the ring. Ring topologies can provide good performance
+│			3. Ring Topology: In a ring topology, devices are connected in a circular					┌> 	PC1   ⤵
+│				fashion, with each device connected to two other devices. Data is transmitted		PC4				PC2
+│				in one direction around the ring. Ring topologies can provide good performance			^--- PC3  ⤶
 │				and are relatively easy to install, but a failure in one device can disrupt
 │				the entire network.
 │
