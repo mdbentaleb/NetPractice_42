@@ -1,4 +1,6 @@
 ─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼
+https://miro.com/app/board/uXjVKjK9Dq4=/
+------------------------------------------------------------------------------------
 
 ┌───────────────────────────────────────────────┐
 │                                               │
@@ -8,38 +10,72 @@
 │
 │
 ├─────── What is a network?
-│
-│	A computer network is a collection of interconnected devices,
-│	such as computers, servers, routers, and switches,
-│	that communicate with each other to share data and resources.
+│			│
+│			│
+│			└──Definition
+│					A computer network is a collection of interconnected devices,
+│					such as computers, servers, routers, and switches,
+│					that communicate with each other to share data and resources.
 │
 │
 │
 ├─────── Types of computer networks
+│			│
+│			│
+│			├──Geographic Scope
+│			│
+│			│		1. (PAN) Personal Area Network: is a network that connects devices within a very
+│			│				small area, typically within a few meters.
+│			│				PANs are commonly used for connecting
+│			│				personal devices like smartphones, tablets, and laptops using technologies
+│			│				such as Bluetooth or Wi-Fi.
+│			│
+│			│		2. (HAN) Home Area Network: is a network that connects devices within a home.
+│			│				HANs are used to share internet connections, files, and resources among
+│			│				devices such as computers, smartphones, smart TVs, and IoT devices.
+│			│
+│			│		3. (LAN) Local Area Network: is a network that connects
+│			│				devices within a limited geographical area, such as a home,
+│			│				office, or campus. LANs are typically used for sharing resources
+│			│				like files, printers, and internet connections among connected devices.
+│			│
+│			│		4. (CAN) Campus Area Network: is a network that connects multiple LANs within
+│			│				a limited geographical area, such as a university campus or corporate campus.
+│			│				CANs are used to facilitate communication and resource sharing among different
+│			│				departments or buildings within the campus.
+│			│
+│			│		5. (MAN) Metropolitan Area Network: is a network that spans a city or a large campus. 
+│			│				It is larger than a LAN but smaller than a WAN. MANs are used to connect multiple 
+│			│				LANs within a metropolitan area, providing high-speed connectivity and efficient 
+│			│				resource sharing.
+│			│
+│			│		6. (WAN) Wide Area Network: is a network that spans a large geographical area
+│			│				and connects multiple LANs. The internet is the largest example of a WAN.
+│			│				WANs are used to connect remote offices, data centers, and users across the globe.
+│			│
+│			│		7. (GAN) Global Area Network: is a network that spans multiple countries
+│			│				and connects various WANs. GANs are used by multinational corporations and
+│			│				government organizations to facilitate global communication and resource sharing.
+│			│
+│			│
+│			└──Specialized Networks
 │
-│	1. Personal Area Network (PAN): is a network that connects devices within a very
-│		small area, typically within a few meters. PANs are commonly used for connecting
-│		personal devices like smartphones, tablets, and laptops using technologies
-│		such as Bluetooth or Wi-Fi.
+│					1. (SAN) Storage Area Network: is a specialized network that provides access to
+│							consolidated, block-level data storage. SANs are typically used in data centers
+│							to improve storage utilization and performance by allowing multiple servers to
+│							access shared storage devices.
 │
-│	2. Local Area Network (LAN): is a network that connects
-│		devices within a limited geographical area, such as a home,
-│		office, or campus. LANs are typically used for sharing resources
-│		like files, printers, and internet connections among connected devices.
+│					2. (EPN)Enterprise Private Network: is a network that is built and managed
+│							by an organization to connect its various locations and provide secure
+│							communication and resource sharing among employees. EPNs are typically used
+│							by large corporations and government agencies.
 │
-│	3. Metropolitan Area Network (MAN): is a network that spans a city or a large campus. 
-│		It is larger than a LAN but smaller than a WAN. MANs are used to connect multiple 
-│		LANs within a metropolitan area, providing high-speed connectivity and efficient 
-│		resource sharing.
+│					3. (VPN) Virtual Private Network: is a secure network that uses encryption
+│							to create a private connection over a public network, such as the internet.
+│							VPNs are commonly used by remote workers to securely access their organization's
+│							resources and data.
+│			
 │
-│	4. Wide Area Network (WAN): is a network that spans a large geographical area
-│		and connects multiple LANs. The internet is the largest example of a WAN.
-│		WANs are used to connect remote offices, data centers, and users across the globe.
-│
-│	5. Virtual Private Network (VPN): is a secure network that uses encryption
-│		to create a private connection over a public network, such as the internet.
-│		VPNs are commonly used by remote workers to securely access their organization's
-│		resources and data.
 │
 │
 ├─────── Network Topologies
