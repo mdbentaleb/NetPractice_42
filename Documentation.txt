@@ -1,15 +1,6 @@
-─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼
-https://miro.com/app/board/uXjVKjK9Dq4=/
-------------------------------------------------------------------------------------
+										Computer Network Fundamentals
 
-┌───────────────────────────────────────────────┐
-│                                               │
-│          Computer Network Fundamentals        │
-│                                               │
-├───────────────────────────────────────────────┘
-│
-│
-├─────── What is a network?
+┌─────── What is a network?
 │			│
 │			│
 │			└──Definition
@@ -28,7 +19,7 @@ https://miro.com/app/board/uXjVKjK9Dq4=/
 │			│				small area, typically within a few meters.
 │			│				PANs are commonly used for connecting
 │			│				personal devices like smartphones, tablets, and laptops using technologies
-│			│				such as Bluetooth or Wi-Fi.
+│			│				such as Bluetooth or Wi-Fi. [10m ~ 15m]
 │			│
 │			│		2. (HAN) Home Area Network: is a network that connects devices within a home.
 │			│				HANs are used to share internet connections, files, and resources among
@@ -65,7 +56,7 @@ https://miro.com/app/board/uXjVKjK9Dq4=/
 │							to improve storage utilization and performance by allowing multiple servers to
 │							access shared storage devices.
 │
-│					2. (EPN)Enterprise Private Network: is a network that is built and managed
+│					2. (EPN) Enterprise Private Network: is a network that is built and managed
 │							by an organization to connect its various locations and provide secure
 │							communication and resource sharing among employees. EPNs are typically used
 │							by large corporations and government agencies.
