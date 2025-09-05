@@ -68,11 +68,11 @@
 │			
 │
 │
-├─────── Network Topologies
-│																							┌PC1	    ┌PC2					
-│			1. Bus Topology: In a bus topology, all devices are connected to a single     ──┴───┬───────┴───┬────────
-│				central cable, known as the bus. Data is transmitted in both directions		 	└PC3      	└PC4
-│				along the bus, and each device listens for data addressed to it.
+├─────── Network Topologies																	 T			┌PC1		  ┌PC2						
+│																				      	Terminator      ^	     	  ^			
+│			1. Bus Topology: In a bus topology, all devices are connected to a single   	 ├──────>───┴──>───┬──>───┴─>──┬────>──Centrale
+│				central cable, known as the bus. Data is transmitted in both directions			               ↓ 	   	   ↓       Cable
+│				along the bus, and each device listens for data addressed to it.							   └pc3        └pc4
 │				Bus topologies are simple and cost-effective but can be prone to collisions
 │				and are not very scalable.
 │
