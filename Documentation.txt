@@ -179,3 +179,20 @@
 │		and troubleshoot network issues.
 │
 │
+
+
+
+
+
+
+
+
+
+
+
+ip = 104.95.23.12
+subnet mask = 255.255.255.0
+
+
+second pc with 
+subnet mask : 255.255.255.0
