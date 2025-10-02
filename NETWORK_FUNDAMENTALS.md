@@ -155,10 +155,3 @@ Subnet Mask: 255.255.255.0 (/24)
 * NetPractice at 42 teaches you **by solving real network problems**, not just reading theory.
 
 ---
-
-👉 I recommend placing this file in your repo as:
-
-* `README.md` → NetPractice project description (polished, short).
-* `NETWORK_FUNDAMENTALS.md` → this extended guide.
-
----
