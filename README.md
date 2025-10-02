@@ -1,4 +1,4 @@
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b5b5314d-d0c9-47bd-8d05-aa1b30f3fea8" />
 
 # 🛰️ NetPractice
 
