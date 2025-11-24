@@ -3,6 +3,7 @@
 # 🛰️ NetPractice
 
 📌 **Overview**
+
 NetPractice is a core project from the **42 curriculum** designed to teach and test your understanding of **computer networking fundamentals**. Instead of coding, this project uses an **interactive learning platform** where you configure small networks (IP addressing, routing, masks, subnets, gateways) until every machine can reach its target.
 
 Through practical exercises, you’ll build a solid foundation in how data actually flows across networks — knowledge that underpins everything from local LAN setups to the global Internet.
