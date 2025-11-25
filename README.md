@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b5b5314d-d0c9-47bd-8d05-aa1b30f3fea8" />
-
 # 🛰️ NetPractice
+
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/94488cfd-64d7-4426-8875-397f8968474a" />
 
 📌 **Overview**
 
