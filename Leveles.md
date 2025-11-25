@@ -50,3 +50,50 @@
   <br>
   <br>
 </details>
+
+<details>
+  <summary>Level 6</summary>
+  <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/8d880fb8-1f1a-4873-ad26-c72019cf6198" />
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 7</summary>
+  <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/68a3b44b-e817-4313-9b91-7ce4bcae3965" />
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 8</summary>
+  <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/754fdff5-eb45-45cc-8b65-ed527db3802a" />
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 9</summary>
+  <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/b4efcc57-493b-4bb5-bada-096d52ae5a91" />
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 10</summary>
+  <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/65046990-47a2-475c-b518-4085935ae686" />
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Finish</summary>
+  <br>
+  <br>
+  <br>
+</details>
