@@ -94,6 +94,7 @@
 <details>
   <summary>Finish</summary>
   <br>
+  <img width="1000" height="720" alt="Image" src="https://github.com/user-attachments/assets/ea3f7b38-67c9-435b-8ea2-2339fa095a99" />
   <br>
   <br>
 </details>
